@@ -1,2 +1,0 @@
-# ReactInboxApp
-Created with CodeSandbox
